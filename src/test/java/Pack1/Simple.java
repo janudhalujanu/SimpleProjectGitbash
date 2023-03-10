@@ -7,6 +7,7 @@ public class Simple {
 	public static void test1() {
 	System.out.println("hello");
 	System.out.println(System.getProperty("browser"));
+	System.out.println(System.getProperty("url"));
 
 	}
 
