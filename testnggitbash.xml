@@ -5,6 +5,7 @@
     <classes>
       <class name="Pack1.Simple2"/>
       <class name="Pack1.Simple"/>
+      <class name="Pack1.Simple3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
